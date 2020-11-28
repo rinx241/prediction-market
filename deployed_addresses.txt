@@ -1,0 +1,2 @@
+-Kovan testnet addresses: 0x9e91C12e5515880C3b6C157ABb7Af5cAB280f926
+                          0xB7b334040932459Bc9E2048eB130eBd87F42208B

@@ -1,0 +1,1 @@
+-I used the ownable contract and circuit breaker function to stop the contract if something go wrong.
